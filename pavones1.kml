@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Cordel de Pavones 1.kml</name>
+	<Style id="PolyStyle0001">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff00ffaa</color>
+			<width>0.4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ffaa</color>
+		</PolyStyle>
+	</Style>
+	<Style id="PolyStyle003">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff00ffaa</color>
+			<width>0.4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ffaa</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="PolyStyle0011">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#PolyStyle0001</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#PolyStyle003</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="ID_00735">
+		<name>Cordel de Vinateros o de Pavones</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Cordel de Vinateros o de Pavones</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>735</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MUNICIPIOS</td>
+
+<td>MADRID-VALLECAS</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBREVP</td>
+
+<td>Cordel de Vinateros o de Pavones</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CLASIFICAD</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AMOJONADA</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESLINDADA</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>COD_VP</td>
+
+<td>2890911</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+		<styleUrl>#PolyStyle0011</styleUrl>
+		<gx:balloonVisibility>1</gx:balloonVisibility>
+		<MultiGeometry>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-3.658731912740438,40.40544423616863,0 -3.65796802739562,40.4052637682729,0 -3.657288569356778,40.40522709249199,0 -3.655419352909765,40.40474924827259,0 -3.65419714591865,40.40430234297875,0 -3.654111658392818,40.40424654587206,0 -3.653268768822181,40.40369638938134,0 -3.650777266315675,40.40299028442172,0 -3.650388947043438,40.40289618594655,0 -3.650108797560085,40.40282991260108,0 -3.645770728293769,40.40198936055187,0 -3.642240498560931,40.4015909502558,0 -3.640679741386063,40.40123221143404,0 -3.637310991980228,40.40119761941113,0 -3.637083066382201,40.40112201759096,0 -3.634950487180046,40.40033588998021,0 -3.630360307533143,40.39907806935667,0 -3.628705238446472,40.39925599903713,0 -3.627993207381867,40.40002535100884,0 -3.626603093055468,40.40026600032811,0 -3.626656308214638,40.40044504710873,0 -3.628095491545046,40.40017428833513,0 -3.62881031163257,40.39938802872936,0 -3.630359976221415,40.39923995144137,0 -3.634890576873237,40.40050485591981,0 -3.637218767029544,40.4013757736162,0 -3.640689884245716,40.40140867499546,0 -3.642154153864688,40.40176654192076,0 -3.645734744316353,40.40215453847679,0 -3.645823992849263,40.40216811653996,0 -3.650041032937555,40.40298260163249,0 -3.653163716749042,40.40383887424709,0 -3.653679329992642,40.40417900206321,0 -3.653866184395558,40.40430008849661,0 -3.654067670384118,40.40443257949572,0 -3.655341175406232,40.40489045661785,0 -3.657291396656741,40.40540415902952,0 -3.657922906351008,40.40543322478955,0 -3.658688237365277,40.40561596705308,0 -3.65920233517996,40.4057387175792,0 -3.660350615842078,40.40641572069151,0 -3.662396496254434,40.40698650398927,0 -3.66496932429214,40.40709729796186,0 -3.664836460060937,40.40691900880259,0 -3.662454886621444,40.40681922200956,0 -3.660470274220898,40.40626160320395,0 -3.659350408526412,40.40559035135889,0 -3.658731912740438,40.40544423616863,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+</Document>
+</kml>
