@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>castellana.kml</name>
+	<Style id="PolyStyle0001">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff00ffaa</color>
+			<width>0.4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ffaa</color>
+		</PolyStyle>
+	</Style>
+	<Style id="PolyStyle003">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff00ffaa</color>
+			<width>0.4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ffaa</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="PolyStyle0011">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#PolyStyle0001</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#PolyStyle003</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="ID_00745">
+		<name>Vereda de la Castellana y Paseo de Recoletos</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Vereda de la Castellana y Paseo de Recoletos</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>745</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MUNICIPIOS</td>
+
+<td>MADRID</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBREVP</td>
+
+<td>Vereda de la Castellana y Paseo de Recoletos</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CLASIFICAD</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>AMOJONADA</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESLINDADA</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>COD_VP</td>
+
+<td>2807906</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+		<styleUrl>#PolyStyle0011</styleUrl>
+		<gx:balloonVisibility>1</gx:balloonVisibility>
+		<MultiGeometry>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-3.692911361416764,40.41946691872799,0 -3.692911361416764,40.41946691872799,0 -3.692911361416764,40.41946691872799,0 -3.692656521226703,40.41950870451107,0 -3.691377206469858,40.42234882849851,0 -3.690341531014868,40.42460021282266,0 -3.690254443014427,40.42516210191613,0 -3.689177403000947,40.42921550734748,0 -3.688460717916537,40.43205618100778,0 -3.688202649583821,40.4330149154728,0 -3.688181940131427,40.43315186173403,0 -3.688236803540022,40.43336549697197,0 -3.688552458520054,40.43512655002839,0 -3.688780315739738,40.43510633021476,0 -3.688486677173234,40.43340933522229,0 -3.688428957566091,40.43320472603551,0 -3.688430152545863,40.43306902205963,0 -3.689584703486886,40.42855092244754,0 -3.689934609270542,40.427317708477,0 -3.690370118236029,40.42566675595224,0 -3.690623572667086,40.42455066835235,0 -3.690733652194975,40.42425609427248,0 -3.69140679441803,40.42282809583517,0 -3.692911361416764,40.41946691872799,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-3.69210530960421,40.40957232111879,0 -3.691946408060591,40.40962817053426,0 -3.691990695201213,40.40970898607467,0 -3.692133036037931,40.41012170138544,0 -3.6934147753485,40.41593887023792,0 -3.693405794958552,40.41606870921221,0 -3.693235840345054,40.41684337149754,0 -3.693003309019914,40.41808912578298,0 -3.692723817012232,40.41928223322087,0 -3.692964288574541,40.41924025188503,0 -3.693368070062955,40.41745293445685,0 -3.693463529124628,40.41684876272741,0 -3.693621749502122,40.41618706385189,0 -3.693636984974112,40.41587728996724,0 -3.692928154766298,40.412774298114,0 -3.692495389088128,40.41079886305508,0 -3.692279229539786,40.40993980244426,0 -3.69210530960421,40.40957232111879,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+</Document>
+</kml>
