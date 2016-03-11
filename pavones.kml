@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Cordel de Pavones.kml</name>
+	<Style id="PolyStyle0001">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff00ffaa</color>
+			<width>0.4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ffaa</color>
+		</PolyStyle>
+	</Style>
+	<Style id="PolyStyle003">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff00ffaa</color>
+			<width>0.4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ffaa</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="PolyStyle0011">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#PolyStyle0001</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#PolyStyle003</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="ID_00737">
+		<name>Cordel de Pavones que desde el arroyo Abro¤igal hasta el esquinazo d</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Cordel de Pavones que desde el arroyo Abro¤igal hasta el esquinazo d</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>737</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MUNICIPIOS</td>
+
+<td>MADRID</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBREVP</td>
+
+<td>Cordel de Pavones que desde el arroyo Abro¤igal hasta el esquinazo d</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CLASIFICAD</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>AMOJONADA</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DESLINDADA</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>COD_VP</td>
+
+<td>2807905</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+		<styleUrl>#PolyStyle0011</styleUrl>
+		<gx:balloonVisibility>1</gx:balloonVisibility>
+		<MultiGeometry>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-3.66628224906722,40.40638619541424,0 -3.66628224906722,40.40638619541424,0 -3.66628224906722,40.40638619541424,0 -3.66628224906722,40.40638619541424,0 -3.66628224906722,40.40638619541424,0 -3.66628224906722,40.40638619541424,0 -3.665030912174518,40.40695617861977,0 -3.66496932429214,40.40709729796186,0 -3.664945756439271,40.40728465110296,0 -3.666371072720303,40.40661710137901,0 -3.66648870011854,40.40659446402404,0 -3.672390229088666,40.40705437982616,0 -3.67850153682661,40.40763860722287,0 -3.678705573797095,40.40763909885584,0 -3.68194542204718,40.4070564118946,0 -3.684771953181289,40.40657799673526,0 -3.685163328844556,40.40649459745758,0 -3.685541866048585,40.40645265789861,0 -3.686273187756145,40.40644409645006,0 -3.686547547957025,40.40647934807767,0 -3.686792702282098,40.40653982871605,0 -3.687074531398956,40.40658516980634,0 -3.687487262183212,40.40671869542212,0 -3.688807771009858,40.40735356903142,0 -3.690683838474695,40.40847159370443,0 -3.691315871323748,40.40890756605297,0 -3.69175422250441,40.40934694610801,0 -3.691885605486188,40.4095170485843,0 -3.691946408060591,40.40962817053426,0 -3.69210530960421,40.40957232111879,0 -3.692003356303083,40.40939894592713,0 -3.691885418551966,40.40924706256465,0 -3.691457471012753,40.40881662973825,0 -3.691242481297866,40.40864590051339,0 -3.688754421231892,40.40714189476525,0 -3.687977977121776,40.40677067490572,0 -3.687503045276294,40.40653251021902,0 -3.687071240527666,40.40640641778224,0 -3.68637289210073,40.40628922613201,0 -3.686064827295823,40.40627134742098,0 -3.685391484031346,40.40629532955354,0 -3.678863804651289,40.40740590759618,0 -3.673866950880379,40.40693317045409,0 -3.672232325850888,40.40680445462692,0 -3.66628224906722,40.40638619541424,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+</Document>
+</kml>
