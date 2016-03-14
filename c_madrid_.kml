@@ -12,7 +12,6 @@
 			</LineStyle>
 			<PolyStyle>
 				<color>540000ff</color>
-				<opacity>0.3</opacity>
 			</PolyStyle>
 			<BalloonStyle>
 				<text>$[description]</text>
