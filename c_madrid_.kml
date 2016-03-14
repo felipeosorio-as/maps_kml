@@ -1,110 +1,42 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <kml xmlns='http://www.opengis.net/kml/2.2'>
 	<Document>
-		<name>Datos del paro por municipio en la Comunidad de Madrid</name>
-		<Style id='Style2-point-1'>
-			<IconStyle>
+		<name>boundaries.kml</name>
+		<Style id='Style0-polygon-1'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
 				<color>ff0000ff</color>
-				<scale>1.0</scale>
-				<Icon>
-					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
-				</Icon>
-			</IconStyle>
-			<LabelStyle>
-				<scale>0.0</scale>
-			</LabelStyle>
-			<BalloonStyle>
-				<text>$[description]</text>
-			</BalloonStyle>
-		</Style>
-		<Style id='Style2-point-1-hover'>
-			<IconStyle>
-				<color>ff0000ff</color>
-				<scale>1.0</scale>
-				<Icon>
-					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
-				</Icon>
-			</IconStyle>
-			<BalloonStyle>
-				<text>$[description]</text>
-			</BalloonStyle>
-		</Style>
-		<StyleMap id='Style2-point-1-map'>
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#Style2-point-1</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#Style2-point-1-hover</styleUrl>
-			</Pair>
-		</StyleMap>
-		<Style id='Style2-line-2'>
-			<LabelStyle>
-				<scale>0.0</scale>
-			</LabelStyle>
-			<LineStyle>
-				<color>800000ff</color>
-				<width>2</width>
-			</LineStyle>
-			<BalloonStyle>
-				<text>$[description]</text>
-			</BalloonStyle>
-		</Style>
-		<Style id='Style2-line-2-hover'>
-			<LineStyle>
-				<color>800000ff</color>
-				<width>2</width>
-			</LineStyle>
-			<BalloonStyle>
-				<text>$[description]</text>
-			</BalloonStyle>
-		</Style>
-		<StyleMap id='Style2-line-2-map'>
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#Style2-line-2</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#Style2-line-2-hover</styleUrl>
-			</Pair>
-		</StyleMap>
-		<Style id='Style2-polygon-3'>
-			<LabelStyle>
-				<scale>0.0</scale>
-			</LabelStyle>
-			<LineStyle>
-				<color>ffeeeeee</color>
 				<width>1</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>7f0000ff</color>
+				<color>540000ff</color>
 			</PolyStyle>
 			<BalloonStyle>
 				<text>$[description]</text>
 			</BalloonStyle>
 		</Style>
-		<Style id='Style2-polygon-3-hover'>
+		<Style id='Style0-polygon-1-hover'>
 			<LineStyle>
-				<color>ffeeeeee</color>
+				<color>ff0000ff</color>
 				<width>1</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>7f0000ff</color>
+				<color>540000ff</color>
 			</PolyStyle>
 			<BalloonStyle>
 				<text>$[description]</text>
 			</BalloonStyle>
 		</Style>
-		<StyleMap id='Style2-polygon-3-map'>
+		<StyleMap id='Style0-polygon-1-map'>
 			<Pair>
 				<key>normal</key>
-				<styleUrl>#Style2-polygon-3</styleUrl>
+				<styleUrl>#Style0-polygon-1</styleUrl>
 			</Pair>
 			<Pair>
 				<key>highlight</key>
-				<styleUrl>#Style2-polygon-3-hover</styleUrl>
+				<styleUrl>#Style0-polygon-1-hover</styleUrl>
 			</Pair>
 		</StyleMap>
 
