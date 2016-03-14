@@ -8,7 +8,7 @@
 			</LabelStyle>
 			<LineStyle>
 				<color>ff0000ff</color>
-				<width>5</width>
+				<width>1</width>
 			</LineStyle>
 			<PolyStyle>
 				<color>540000ff</color>
@@ -35,7 +35,7 @@
 				<styleUrl>#Style0-polygon-1</styleUrl>
 			</Pair>
 			<Pair>
-				<key>highlight</key>
+				<key>normal</key>
 				<styleUrl>#Style0-polygon-1-hover</styleUrl>
 			</Pair>
 		</StyleMap>
