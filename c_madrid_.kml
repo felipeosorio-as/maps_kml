@@ -35,7 +35,7 @@
 				<styleUrl>#Style0-polygon-1</styleUrl>
 			</Pair>
 			<Pair>
-				<key>normal</key>
+				<key>highlight</key>
 				<styleUrl>#Style0-polygon-1-hover</styleUrl>
 			</Pair>
 		</StyleMap>
