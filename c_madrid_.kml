@@ -43,16 +43,8 @@
 <Placemark>
 			<snippet></snippet>
 			<description><![CDATA[<div class="googft-info-window">
-<b>description:</b> <br>
-<b>name:</b> <br>
-<b>ex_OBJECTID:</b> 133<br>
-<b>ex_VertexCou:</b> 418<br>
-<b>ex_ISO:</b> ESP<br>
-<b>ex_NAME_0:</b> Spain<br>
-<b>ex_NAME_1:</b> Comunidad de Madrid<br>
-<b>ex_VARNAME_1:</b> Madrid|Communaut? de Madrid| Community of Madrid|Comunidad de Madrid |Comunidade de Madrid|Comunitat de Madrid<br>
-<b>ex_NL_NAME_1:</b> <br>
-<b>ex_HASC_1:</b> ES.MD
+<b>description:</b>Naturaleza conectada<br>
+<b>name:</b>Comunidad de Madrid<br>
 </div>]]></description>
 			<styleUrl>#Style0-polygon-1-map</styleUrl>
 			<ExtendedData>
