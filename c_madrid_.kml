@@ -35,7 +35,7 @@
 				<styleUrl>#Style0-polygon-1</styleUrl>
 			</Pair>
 			<Pair>
-				<key>highlight</key>
+				<key>normal</key>
 				<styleUrl>#Style0-polygon-1-hover</styleUrl>
 			</Pair>
 		</StyleMap>
@@ -43,8 +43,8 @@
 <Placemark>
 			<snippet></snippet>
 			<description><![CDATA[<div class="googft-info-window">
-<b>description:</b>Naturaleza conectada<br>
-<b>name:</b>Comunidad de Madrid<br>
+<b>description:</b> Naturaleza conectada<br>
+<b>name:</b> Comunidad de Madrid<br>
 </div>]]></description>
 			<styleUrl>#Style0-polygon-1-map</styleUrl>
 			<ExtendedData>
