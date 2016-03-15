@@ -11,7 +11,7 @@
 				<width>1</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>ff0000ff</color>
+				<color>540087ff</color>
 			</PolyStyle>
 			<BalloonStyle>
 				<text>$[description]</text>
