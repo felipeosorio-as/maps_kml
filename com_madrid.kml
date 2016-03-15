@@ -7,7 +7,7 @@
 				<scale>0.0</scale>
 			</LabelStyle>
 			<LineStyle>
-				<color>ff0000ff</color>
+				<color>1978F000</color>
 				<width>1</width>
 			</LineStyle>
 			<PolyStyle>
@@ -19,7 +19,7 @@
 		</Style>
 		<Style id='Style0-polygon-1-hover'>
 			<LineStyle>
-				<color>ff0000ff</color>
+				<color>1978F000</color>
 				<width>1</width>
 			</LineStyle>
 			<PolyStyle>
