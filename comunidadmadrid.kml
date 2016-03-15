@@ -7,11 +7,11 @@
 				<scale>0.0</scale>
 			</LabelStyle>
 			<LineStyle>
-				<color>6478F000</color>
+				<color>64B4FF14</color>
 				<width>5</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>1978F000</color>
+				<color>19B4FF14</color>
 			</PolyStyle>
 			<BalloonStyle>
 				<text>$[description]</text>
@@ -19,11 +19,11 @@
 		</Style>
 		<Style id='Style0-polygon-1-hover'>
 			<LineStyle>
-				<color>6478F000</color>
+				<color>64B4FF14</color>
 				<width>1</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>1978F000</color>
+				<color>19B4FF14</color>
 			</PolyStyle>
 			<BalloonStyle>
 				<text>$[description]</text>
