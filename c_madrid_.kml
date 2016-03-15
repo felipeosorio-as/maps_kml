@@ -11,7 +11,7 @@
 				<width>1</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>540000ff</color>
+				<color>ff0000ff</color>
 			</PolyStyle>
 			<BalloonStyle>
 				<text>$[description]</text>
@@ -43,7 +43,7 @@
 <Placemark>
 			<snippet></snippet>
 			<description><![CDATA[<div class="googft-info-window">
-<b>description:</b> aturaleza conectada<br>
+<b>description:</b> Naturaleza conectada<br>
 <b>name:</b> Comunidad de Madrid<br>
 </div>]]></description>
 			<styleUrl>#Style0-polygon-1-map</styleUrl>
