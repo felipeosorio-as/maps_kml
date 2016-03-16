@@ -10,6 +10,7 @@
 				<color>64B4FF14</color>
 				<width>5</width>
 			</LineStyle>
+				<color>none</color>
 			<PolyStyle>
 			</PolyStyle>
 			<BalloonStyle>
@@ -31,10 +32,6 @@
 			<Pair>
 				<key>normal</key>
 				<styleUrl>#Style0-polygon-1</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#Style0-polygon-1-hover</styleUrl>
 			</Pair>
 		</StyleMap>
 
