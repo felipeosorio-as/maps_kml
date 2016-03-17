@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0"><Document><name>Track 2013-03-17 Pinar San José, arroyos Fuente del Sapo y Butarque, parques Hispanidad y Valdegrullas :wikiloc.com</name><Style id="lineStyle">
+  
+  <LineStyle><color>ff00ffaa</color><width>4</width></LineStyle></Style><Style id="waypointStyle"><IconStyle><Icon><href>http://sc.wklcdn.com/wikiloc/images/pictograms/ge/wpt.png</href></Icon></IconStyle><BalloonStyle><text>$[description]</text></BalloonStyle></Style><Folder><name>Trails</name><open>true</open><Folder><open>false</open><name>2013-03-17 Pinar San José, arroyos Fuente del Sapo y Butarque, parques Hispanidad y Valdegrullas</name>
+
+  <Placemark><name>2013-03-17 Pinar San José, arroyos Fuente del Sapo y Butarque, parques Hispanidad y Valdegrullas</name><Snippet maxLines="0"/><styleUrl>#m4129896</styleUrl>
+  
+  <description><![CDATA[<table width="400" style="color:#666"><tr><td
+  <colspan="2" align="left"> a href="http://www.wikiloc.com"><img
+  <src="http://sc.wklcdn.com/wikiloc/images/wikiloc.png"
+  <alt="Wikiloc"></a></td></tr><tr><td colspan="2"><font style="font-
+  <size:14pt;color:#2B60DE"><a
+  <href="http://www.wikiloc.com/wikiloc/view.do?id=4129896">2013-03-17 Pinar
+  <San José, arroyos Fuente del Sapo y Butarque, parques Hispanidad y
+  <Valdegrullas</a></font><br/>near Carabanchel Alto, Madrid (España) by <a
+  <style="color:#2B60DE" href="http://www.wikiloc.com/wikiloc/user.do?id=31122
+  <5">Nofahuer</a></td></tr><tr><td colspan="2"><a
+  <href="http://www.wikiloc.com/wikiloc/view.do?id=4129896"><img width="400"
+  <src="http://sc.wklcdn.com/image_10/311225/4129896/elevProfile.png"
+  <alt="Elevation Profile"/></a></td></tr><tr><td width="40"><img
+  <src="http://s1.wklcdn.com/wikiloc/images/pictograms/1.png" alt=""/></td><td
+  <align="left"><font style="color:black"><b>Walking distance:</b> 8.7 mi. -
+  <14 km.</font><br/><br/><b>Elevation min:</b> 771 meters <b>max:</b> 826
+  <meters<br/><b>Uphill:</b> 115 meters <b>down:</b> 96 meters<br/><b>Type:
+  <</b>One way<br/></td></tr><tr><td colspan="2"><a
+  <href="http://www.wikiloc.com/wikiloc/imgServer.do?id=2000892"><img
+  <width="60" height="60"
+  <src="http://s0.wklcdn.com/image_10/311225/4129896/2000892_tn.jpg"
+  <alt=""/></a>&nbsp;<a
+  <href="http://www.wikiloc.com/wikiloc/imgServer.do?id=2000894"><img
+  <width="60" height="60"
+  <src="http://s2.wklcdn.com/image_10/311225/4129896/2000894_tn.jpg"
+  <alt=""/></a>&nbsp;<a
+  <href="http://www.wikiloc.com/wikiloc/imgServer.do?id=2000895"><img
+  <width="60" height="60"
+  <src="http://s0.wklcdn.com/image_10/311225/4129896/2000895_tn.jpg"
+  <alt=""/></a>&nbsp;<a
+  <href="http://www.wikiloc.com/wikiloc/imgServer.do?id=2000897"><img
+  <width="60" height="60"
+  <src="http://s2.wklcdn.com/image_10/311225/4129896/2000897_tn.jpg"
+  <alt=""/></a>&nbsp;<a
+  <href="http://www.wikiloc.com/wikiloc/imgServer.do?id=2000898"><img
+  <width="60" height="60"
+  <src="http://s0.wklcdn.com/image_10/311225/4129896/2000898_tn.jpg"
+  <alt=""/></a>&nbsp;<a
+  <href="http://www.wikiloc.com/wikiloc/imgServer.do?id=2000900"><img
+  <width="60" height="60"
+  <src="http://s2.wklcdn.com/image_10/311225/4129896/2000900_tn.jpg"
+  <alt=""/></a>&nbsp;</td></tr><tr><td colspan="2"> </td></tr><tr><td
+  <align="right" colspan="2"><br/><a style="color:#2B60DE"href="http://www.wik
+  <iloc.com/wikiloc/upload.do"><b>Upload your trail to wikiloc.com &rarr;</b><
+  </a></td></tr></table>]]></description><Point><coordinates>-3.757579,40.3628
+  <16,803.8</coordinates></Point></Placemark>
+
+<Placemark>
+    <name>Path</name><styleUrl>#lineStyle</styleUrl><MultiGeometry><LineString><coordinates>-3.75743,40.363266,803.3 -3.756766,40.364258,811.0 -3.75706,40.364559,812.9 -3.756989,40.364758,813.9 -3.756392,40.365311,818.2 -3.756446,40.365437,817.3 -3.757005,40.365467,818.2 -3.757666,40.365753,818.2 -3.757664,40.365898,817.7 -3.761405,40.366516,814.9 -3.763232,40.366032,814.4 -3.763493,40.366005,812.9 -3.76366,40.36615,813.4 -3.763999,40.36607,813.4 -3.764181,40.365894,813.4 -3.765107,40.365757,812.9 -3.7662,40.365116,814.4 -3.767175,40.365074,816.8 -3.770568,40.362812,816.8 -3.7712,40.362297,817.3 -3.770144,40.36116,814.4 -3.770885,40.360683,815.3 -3.77097,40.360237,815.8 -3.771454,40.35976,817.7 -3.771673,40.359745,819.7 -3.771798,40.35918,819.7 -3.772878,40.359146,816.8 -3.774878,40.359699,808.6 -3.777201,40.360767,811.0 -3.777998,40.360947,809.6 -3.77749,40.360882,812.0 -3.774486,40.359592,812.0 -3.775313,40.35881,805.7 -3.775851,40.357761,804.8 -3.776256,40.357609,805.2 -3.776263,40.357437,803.8 -3.77675,40.357819,804.3 -3.777807,40.358166,807.2 -3.77675,40.357819,804.3 -3.77612,40.357273,805.2 -3.775746,40.357384,804.3 -3.775227,40.357296,802.8 -3.774972,40.357105,801.4 -3.775105,40.356674,801.9 -3.774458,40.356594,797.6 -3.774605,40.356464,799.5 -3.774412,40.355659,796.6 -3.774945,40.355556,798.5 -3.774869,40.35545,794.7 -3.775274,40.355602,797.6 -3.775537,40.355362,798.5 -3.775498,40.35516,797.6 -3.776709,40.355137,798.5 -3.778086,40.354637,787.5 -3.778932,40.354607,789.9 -3.77906,40.354416,788.9 -3.780277,40.35416,793.7 -3.780874,40.354206,792.7 -3.78447,40.353714,797.6 -3.784928,40.353848,797.6 -3.784988,40.354069,798.0 -3.785664,40.354267,798.5 -3.78686,40.355255,801.4 -3.787492,40.355488,800.0 -3.787622,40.355343,799.5 -3.78901,40.356274,800.9 -3.790503,40.356815,802.8 -3.791095,40.356987,801.9 -3.791767,40.35685,801.4 -3.793373,40.357075,804.3 -3.794153,40.356922,806.2 -3.794288,40.357124,805.7 -3.793594,40.357285,806.7 -3.792855,40.357143,805.7 -3.79099,40.357136,802.8 -3.790284,40.356956,802.4 -3.789859,40.35667,801.9 -3.78872,40.356468,804.3 -3.7875,40.355495,800.9 -3.787537,40.355244,800.4 -3.78674,40.354664,800.4 -3.786152,40.354286,797.6 -3.784952,40.353855,797.1 -3.784723,40.354046,797.1 -3.782707,40.354004,796.6 -3.779079,40.354588,793.2 -3.778935,40.354427,794.2 -3.777282,40.354519,791.3 -3.77657,40.354324,790.3 -3.775422,40.354382,790.8 -3.774294,40.354061,789.4 -3.773317,40.354076,791.8 -3.772188,40.353848,796.1 -3.771107,40.353477,789.9 -3.770414,40.353062,784.6 -3.768796,40.352581,782.2 -3.768732,40.352444,781.7 -3.768945,40.352329,781.2 -3.768908,40.352196,781.2 -3.767911,40.351688,784.1 -3.764714,40.351562,781.7 -3.764555,40.351608,781.2 -3.764343,40.352226,781.7 -3.763983,40.351826,778.3 -3.763061,40.35178,777.4 -3.762241,40.351559,775.9 -3.761949,40.351318,775.4 -3.761975,40.3512,777.4 -3.761712,40.351116,779.3 -3.760908,40.351162,777.8 -3.760519,40.351612,773.5 -3.76006,40.351704,773.0 -3.759217,40.351582,774.5 -3.758279,40.351013,774.0 -3.758288,40.350861,775.0 -3.758641,40.350754,774.5 -3.759769,40.349937,777.8 -3.760629,40.348637,779.8 -3.761437,40.347836,781.2 -3.762792,40.346737,782.7 -3.763439,40.346672,784.6 -3.763716,40.346508,783.6 -3.763829,40.345795,786.0 -3.764031,40.345757,787.5 -3.764308,40.345394,792.3 -3.764481,40.344666,806.2 -3.764153,40.343987,808.6 -3.763691,40.343475,811.0 -3.763759,40.342754,812.5 -3.762496,40.342789,810.5 -3.762721,40.342747,811.5 -3.762677,40.342545,811.5 -3.763043,40.342743,810.5 -3.76379,40.342701,812.0 -3.763812,40.342911,812.0 -3.76425,40.342571,811.5 -3.764469,40.342709,812.5 -3.765063,40.342613,811.5 -3.765318,40.342789,813.4 -3.765382,40.343048,812.5 -3.765223,40.343269,812.5 -3.764903,40.343376,812.5 -3.764465,40.343288,812.0 -3.764248,40.343464,812.5 -3.764828,40.343689,811.0 -3.766344,40.343449,812.5 -3.766402,40.342724,812.9 -3.767124,40.343357,812.9 -3.767806,40.343277,812.9 -3.769506,40.342251,813.4 -3.770442,40.342194,809.6 -3.770604,40.341908,811.0 -3.770809,40.342239,808.6 -3.770396,40.342743,803.3 -3.771231,40.34256,800.0 -3.771791,40.342968,801.9 -3.772469,40.342182,803.3 -3.773057,40.341869,802.4 -3.772579,40.341614,803.8 -3.773379,40.341141,805.2 -3.773415,40.340939,805.7 -3.773611,40.340836,806.7 -3.773823,40.341518,805.2 -3.774694,40.34116,806.7 -3.774355,40.34079,807.6 -3.775469,40.34045,807.6 -3.776707,40.340225,809.1 -3.777814,40.340458,811.5 -3.778372,40.340263,814.9 -3.778649,40.339828,816.3 -3.778466,40.339603,816.3 -3.777649,40.339226,817.7 -3.778058,40.33886,819.2 -3.77858,40.338715,821.1 -3.776883,40.33733,824.5 -3.775749,40.336639,822.6 -3.775652,40.336174,819.2 -3.775903,40.335701,820.1 -3.776156,40.335682,821.1 -3.775914,40.335705,821.1 -3.775926,40.3358,820.6 </coordinates></LineString></MultiGeometry></Placemark>
+    
+    </Folder></Folder><Style id="n4129896"><Icon><href>http://s1.wklcdn.com/wikiloc/images/pictograms/ge/1.png</href></Icon><BalloonStyle><text>$[description]</text></BalloonStyle><LabelStyle><scale>0</scale></LabelStyle></Style><Style id="h4129896"><IconStyle><Icon><href>http://s1.wklcdn.com/wikiloc/images/pictograms/ge/1.png</href></Icon></IconStyle><BalloonStyle><text>$[description]</text></BalloonStyle></Style><StyleMap id="m4129896"><Pair><key>normal</key><styleUrl>#n4129896</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#h4129896</styleUrl></Pair></StyleMap><LookAt><longitude>-3.775333</longitude><latitude>40.3511065</latitude><range>15000.0</range><tilt>66.0</tilt><heading>3.0</heading></LookAt></Document></kml>
